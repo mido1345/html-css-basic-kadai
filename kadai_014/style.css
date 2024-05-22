@@ -1,0 +1,23 @@
+html {
+  font-size: 20px;
+  }
+
+body {
+  text-align: center;
+}
+
+  h1 {
+    text-shadow: 1px 1px 2px gray;
+    letter-spacing: 1.2em;
+    font-family: 'Josefin Sans', sans-serif;
+    border-bottom: solid 1px #737372;
+    font-size: 40px;
+    }
+
+.sky-blue {
+  color: #5bc8eddc;
+}
+
+.pink {
+  color: #FFC0CB;
+}
